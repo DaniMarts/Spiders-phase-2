@@ -1,0 +1,29 @@
+{
+  "name": "spiders-phase-2",
+  "version": "1.0.0",
+  "description": "phase 2 of zaio becoming elite contains different projects, made in node js, react and react native",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniMarts/Spiders-phase-2.git"
+  },
+  "keywords": [
+    "todo",
+    "to-do",
+    "app",
+    "node"
+  ],
+  "author": "Danilo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniMarts/Spiders-phase-2/issues"
+  },
+  "homepage": "https://github.com/DaniMarts/Spiders-phase-2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
